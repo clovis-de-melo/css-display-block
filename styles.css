@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+}
+
+.one {
+    border: solid 1px red; 
+    height: 150px;
+    background-color: aqua;
+}
+
+.two {
+    border: solid 1px red; 
+    height: 150px;
+    background-color: brown;
+    text-align: end;
+}
+
+.three {
+    border: solid 1px red; 
+    height: 150px; 
+    background-color: blueviolet;
+    text-align: center;
+    text-orientation: initial;
+}
+
+.four {
+    border: solid 1px red; 
+    height: 150px; 
+    background-color: darkgoldenrod;
+    padding-top: 5px;
+}
