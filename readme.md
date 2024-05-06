@@ -12,8 +12,12 @@ The element generates a block box, generating line breaks both before and after 
 display: block; 
 ```
 
-## Reference
+## Docs
 
 [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 
 [W3 Schools - CSS display property](https://www.w3schools.com/cssref/pr_class_display.php)
+
+## Visual reference 
+
+![screenshot](/images/diplay-block-preview.png "screenshot showing an example of how the display block looks like")
