@@ -1,4 +1,4 @@
-# CSS: Display block 
+# CSS studies: Display block 
 
 ```display```
 
