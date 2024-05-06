@@ -14,7 +14,7 @@ display: block;
 
 ## Docs
 
-[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/display){:target="_blank"}
 
 [W3 Schools - CSS display property](https://www.w3schools.com/cssref/pr_class_display.php)
 
